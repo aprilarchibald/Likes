@@ -1,0 +1,108 @@
+*{
+    padding: 0px;
+    margin: opx;
+}
+/* part 1 */
+/* .box{
+    height: 220px;
+    width: 400px;
+    border: 2px solid black;
+    /* padding: 20px; */
+    /* display: flex; */
+    /* padding: 30px;
+}
+
+.boxtop{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.likebutton{
+    height: 30px;
+    width: 60px;
+    background-color: goldenrod;
+    box-shadow: 5px 5px black;
+}
+
+.dflex{
+    display: flex;
+} 
+
+.justifycontent{
+    justify-content: center;
+}
+
+.alignitems{
+    align-items: center;
+} */
+
+/* Part 2 */
+.wrapper{
+    padding: 0px 80px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.header{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+.heading{
+    text-align: center;
+}
+
+.main{
+    display: flex;
+    justify-content: center;
+}
+
+.sidebox{
+    height: 300px;
+    width: auto;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+    /* flex: 2; */
+}
+
+.name{
+    text-align: center;
+}
+
+img{
+    height: 80px;
+    width: auto;
+    padding: 20px;
+}
+
+.dflex{
+    display: flex;
+    
+} 
+
+.box{
+    height: auto;
+    width: 400px;
+    border: 2px solid black;
+    padding: 20px;
+    margin: 20px;
+    /* flex: 1; */
+}
+
+.boxtop{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.likebutton{
+    height: 30px;
+    width: 60px;
+    background-color: goldenrod;
+    box-shadow: 5px 5px black;
+    font-weight: bold;
+}
+
+
